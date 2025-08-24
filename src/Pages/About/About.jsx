@@ -3,11 +3,10 @@ import {
   Box,
   chakra,
   Flex,
-  Icon,
   SimpleGrid,
   useColorModeValue,
 } from "@chakra-ui/react";
-import avatarImage from './../../Assets/sai.heic';
+import avatarImage from "./../../Assets/avatar.png";
 
 const testimonials = [
   {
